@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1729080792 source:c:\c labs\mnf\dynamic box\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

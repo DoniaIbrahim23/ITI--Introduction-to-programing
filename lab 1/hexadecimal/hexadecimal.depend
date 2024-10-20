@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1728988376 source:c:\c labs\hexadecimal\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1728988670 source:c:\c labs\test mnf\hexadecimal\main.c
+	<stdio.h>
+
